@@ -90,8 +90,8 @@ User controlled input can trigger unintended server requests.
 | **Insufficient Logging and Monitoring** | Renamed to **Security Logging and Monitoring Failures**, with broader scope including alerting and visibility gaps. |
 
 
-📎 For detailed analysis and examples, see:  
-**docs/OWASP_2017_vs_2021_detailed.md**
+[Detailed comparison](docs/OWASP_2017_vs_2021_detailed.md)
+
 
 ---
 
