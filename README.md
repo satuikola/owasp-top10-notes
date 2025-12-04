@@ -117,4 +117,28 @@ From this analysis I concluded that:
 - supply chain and CI/CD (continuous integration / continuous delivery)–related risks are now clearly visible in the Top 10.
 - several older categories were consolidated to better reflect modern attack patterns
 
-These observations match real world incidents where
+These observations match real world incidents where broken access control and weak logging often play a central role.
+
+---
+
+## 6. Notes about the original assignment
+
+The original assignment was written as part of my cybersecurity studies and included:
+
+- a comparison of OWASP Top 10 2017 and 2021
+- written reflections on why some categories moved or were renamed
+- examples linked to typical web applications
+
+This repository is a cleaned up and English language version of that work.  
+Short notes from the original assignment are in:  
+`docs/Notes_from_assignment.md`
+
+---
+
+## 7. About this repository
+
+This repository is part of my cybersecurity learning journey and portfolio.  
+It demonstrates my understanding of web application risks and my ability to:
+
+- map my notes to industry standard frameworks like OWASP
+- communicate technical security topics in clear language
