@@ -89,7 +89,7 @@ User controlled input can trigger unintended server requests.
 | **Using Components with Known Vulnerabilities** | Still present as **Vulnerable and Outdated Components**, emphasizing dependency management. |
 | **Insufficient Logging and Monitoring** | Renamed to **Security Logging and Monitoring Failures**, with broader scope including alerting and visibility gaps. |
 
-
+📎 For detailed analysis and examples, see:  
 [Detailed comparison](docs/OWASP_2017_vs_2021_detailed.md)
 
 
@@ -104,8 +104,10 @@ Examples of how these categories can appear in practice:
 - **Insecure Design**: a feature is built without rate limiting, so endless login attempts are possible  
 - **Vulnerable Components**: a known vulnerable library is never updated
 
-More scenarios are listed in:  
-`docs/Real_world_scenarios.md`
+📎 More scenarios are listed in:  
+🔗 [Real-world scenarios](docs/Real_world_scenarios.md)
+
+
 
 ---
 
@@ -130,8 +132,10 @@ The original assignment was written as part of my cybersecurity studies and incl
 - examples linked to typical web applications
 
 This repository is a cleaned up and English language version of that work.  
-Short notes from the original assignment are in:  
-`docs/Notes_from_assignment.md`
+
+📎 Short notes from the original assignment are in:  
+📝 [Notes from assignment](docs/Notes_from_assignment.md)
+
 
 ---
 
